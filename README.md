@@ -3,7 +3,7 @@
 
 我们的一些栏目包括：
 
-- [在线分享](https://github.com/Frank-Ge/SEU-Friends-In-IT-Field/edit/main/sharing-activities%EF%BC%88%E5%9C%A8%E7%BA%BF%E5%88%86%E4%BA%AB%EF%BC%89.md)
+- [在线分享](https://github.com/Frank-Ge/SEU-Friends-In-IT-Field/blob/main/sharing-activities%EF%BC%88%E5%9C%A8%E7%BA%BF%E5%88%86%E4%BA%AB%EF%BC%89.md)
 
 如果有兴趣交流，欢迎扫描下面二维码联系我。
 
