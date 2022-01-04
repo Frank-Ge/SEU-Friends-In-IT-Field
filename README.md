@@ -11,4 +11,7 @@
   ![image](https://user-images.githubusercontent.com/19504866/148064579-518c1008-df25-408b-a89c-1f06bd896ce8.png)
 </center>
 
+<div style="align: center">
+<img src="https://user-images.githubusercontent.com/19504866/148064579-518c1008-df25-408b-a89c-1f06bd896ce8.png"/>
+</div>
 
