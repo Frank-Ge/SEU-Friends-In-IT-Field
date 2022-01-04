@@ -7,6 +7,6 @@
 
 如果有兴趣交流，欢迎扫描下面二维码联系我：
 
-![image](https://user-images.githubusercontent.com/19504866/148064579-518c1008-df25-408b-a89c-1f06bd896ce8.png)
+<center>![image](https://user-images.githubusercontent.com/19504866/148064579-518c1008-df25-408b-a89c-1f06bd896ce8.png)</center>
 
 
