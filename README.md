@@ -5,7 +5,7 @@
 
 - [在线分享](https://github.com/Frank-Ge/SEU-Friends-In-IT-Field/blob/main/sharing-activities%EF%BC%88%E5%9C%A8%E7%BA%BF%E5%88%86%E4%BA%AB%EF%BC%89.md)
 
-如果有兴趣交流，欢迎扫描下面二维码联系我。
+如果有兴趣交流，欢迎微信扫描下面二维码联系我。
 
 ![image](https://user-images.githubusercontent.com/19504866/148064579-518c1008-df25-408b-a89c-1f06bd896ce8.png)
 
